@@ -1,5 +1,5 @@
 ## react-native-video
-
+https://github.com/react-native-video/react-native-video/issues/2611
 [![ci][4]][5]
 
 A `<Video>` component for react-native, as seen in
